@@ -1,0 +1,1 @@
+podman run -p 8080:8080 --rm --name zeppelin --gpus all docker.io/apache/zeppelin:0.12.0
