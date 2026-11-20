@@ -1,4 +1,4 @@
-```
+```sh
 podman container create --name doccano \
   -e "ADMIN_USERNAME=admin" \
   -e "ADMIN_EMAIL=admin@doccano.com" \
